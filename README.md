@@ -4,7 +4,7 @@
 
 <h4 align="center">Demonstrar a lista dos repositórios do GitHub através do Axios em React Js.</h4>
 
-<h2>II. Layout do Projeto</h2>
+<h2 align="center">II. Layout do Projeto</h2>
 <p align="center">
     <img src="./images/img.png" width="100%"/>
 </p>
