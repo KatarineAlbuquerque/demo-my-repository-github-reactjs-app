@@ -16,7 +16,8 @@ function Home() {
                 var data = response.data
                 setPost(data)
             })
-    }, [])
+        post.sort()
+    }, [post])
 
     return (
         <div id="page" className="bg-s-light">
