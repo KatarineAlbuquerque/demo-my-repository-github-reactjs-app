@@ -16,13 +16,13 @@
 <h2 align="center">IV. Autor</h2>
 <h4 align="center">
     <i>Linkedin: </i>
-    <a>/ katarine-albuquerque</a>
+    <a href="https://www.linkedin.com/in/katarine-albuquerque/">/ katarine-albuquerque</a>
 </h4>
 <h4 align="center">
     <i>GitHub: </i>
-    <a>/ KatarineAlbuquerque</a>
+    <a href="https://github.com/KatarineAlbuquerque">/ KatarineAlbuquerque</a>
 </h4>
 <h4 align="center">
     <i>Protfólio: </i>
-    <a>/ my-portfolio</a>
+    <a href="https://github.com/KatarineAlbuquerque/my-portfolio">/ my-portfolio</a>
 </h4>
