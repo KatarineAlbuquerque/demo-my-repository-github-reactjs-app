@@ -15,7 +15,7 @@
 <p align="center">Axios</p>
 
 <h2 align="center">IV. Autor</h2>
-<h4 align="center">Katarine Albuquerque</h4>
+<h3 align="center">Katarine Albuquerque</h3>
 <h4 align="center">
     <i>Linkedin: </i>
     <a href="https://www.linkedin.com/in/katarine-albuquerque/">/ katarine-albuquerque</a>
