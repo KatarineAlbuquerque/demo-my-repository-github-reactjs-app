@@ -1,0 +1,21 @@
+@media (max-width: 991px) {
+    #header-home, #header-repositories {
+        width: 100%;
+        height: auto;
+        padding: 5% 1%;
+    }
+    img {
+        width: 50%;
+        height: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .header-repository {
+        width: 100%;
+    }
+    img {
+        width: 70%;
+        height: 70%;
+    }
+}

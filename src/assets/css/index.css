@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+
+img {
+    width: 76%;
+    height: 76%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #2286c3;
+}
+
+h1,h2 {
+    line-height: 1em;
+    margin-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3, h4, h5, h6 {
+    line-height: 1.5em;
+}
+
+p {
+    line-height: 1.4em;
+    text-align: inherit;
+    letter-spacing: 1px;
+    font-size: 0.9em;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.color-white {
+    color: #FFF;
+}
+
+.clor-black {
+    color: #000;
+}
+
+.color-p {
+    color: #64b5f6;
+}
+
+.color-p-light {
+    color:#9be7ff;
+}
+
+.color-p-dark {
+    color:#2286c3;
+}
+
+.color-s {
+    color:#ffecb3;
+}
+
+.color-s-light {
+    color:#ffffe5;
+}
+
+.color-s-dark {
+    color:#cbba83;
+}
+
+.bg-white {
+    background-color: #FFF;
+}
+
+.bg-p {
+    background-color: #64b5f6;
+}
+
+.bg-p-light {
+    background-color:#9be7ff;
+}
+
+.bg-p-dark {
+    background-color:#2286c3;
+}
+
+.bg-s {
+    background-color:#ffecb3;
+}
+
+.bg-s-light {
+    background-color:#ffffe5;
+}
+
+.bg-s-dark {
+    background-color:#cbba83;
+}
+
+#page {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: stretch;
+}
+
+#header-home, #header-repositories {    
+    height: 100vh;
+    padding: 2% 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+}
+
+#header-home {
+    width: 30%;
+    text-align: center;
+}
+
+#header-home h1 {
+    font-size: 2.3em;
+}
+
+#header-user h2 {
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+#header-user h3 {
+    margin-bottom: 10px;
+}
+
+#header-repositories {
+    width: 58%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.header-repository {
+    width: 35%;
+    height: auto;
+    margin: 2% 5%;
+    line-height: 1.5em;
+    padding: 2%;
+    border: 2px dotted #ffecb3;
+    border-radius: 8px;
+}
+
+.header-repository h1 {
+    width: 100%;
+}
+
+.header-repository p::first-letter {
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    color: #ffecb3;
+}
