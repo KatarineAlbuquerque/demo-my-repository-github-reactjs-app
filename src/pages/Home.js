@@ -23,7 +23,7 @@ function Home() {
             <header id="header-home" className="bg-s-light">
                 <h1 className="color-black">Repositórios</h1>
                 <section id="header-content">
-                   <HeaderUser url={'https://avatars.githubusercontent.com/u/95772817?v=4'} login={"KatarineAlbuquerque"}/> 
+                   <HeaderUser name={"Katarine Albuquerque"} url={'https://avatars.githubusercontent.com/u/95772817?v=4'} login={"KatarineAlbuquerque"}/> 
                 </section>
             </header>
             <section id="header-repositories" className="bg-p-dark">
@@ -33,9 +33,7 @@ function Home() {
                     )                    
                 })}
             </section>
-
         </div>
-
     )
 }
 
